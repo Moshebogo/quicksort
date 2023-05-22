@@ -1,5 +1,5 @@
 function partition(array, low, high) {
-  // type your code in here
+  // type your code in here    
 }
 
 function quicksort(array, low = 0, high = array.length - 1) {
